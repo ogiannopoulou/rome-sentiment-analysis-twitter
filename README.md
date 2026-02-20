@@ -1,4 +1,4 @@
-# Rome Sentiment Analysis 
+# Rome Sentiment Analysis from Twitter data 
 
 A data analysis project exploring sentiment in social media (Twitter) regarding **Rome** during Spring 2009.
 
